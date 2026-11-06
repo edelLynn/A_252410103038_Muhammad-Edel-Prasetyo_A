@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "uts_pbo/1.0.0": {
+        "runtime": {
+          "uts_pbo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uts_pbo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

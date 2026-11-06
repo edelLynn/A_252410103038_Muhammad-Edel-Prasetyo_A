@@ -1,0 +1,14 @@
+C:\Users\Edel\source\repos\uts_pbo\uts_pbo\obj\Debug\net8.0\uts_pbo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edel\source\repos\uts_pbo\uts_pbo\obj\Debug\net8.0\uts_pbo.AssemblyInfoInputs.cache
+C:\Users\Edel\source\repos\uts_pbo\uts_pbo\obj\Debug\net8.0\uts_pbo.AssemblyInfo.cs
+C:\Users\Edel\source\repos\uts_pbo\uts_pbo\obj\Debug\net8.0\uts_pbo.csproj.CoreCompileInputs.cache
+C:\Users\Edel\source\repos\uts_pbo\uts_pbo\bin\Debug\net8.0\uts_pbo.exe
+C:\Users\Edel\source\repos\uts_pbo\uts_pbo\bin\Debug\net8.0\uts_pbo.deps.json
+C:\Users\Edel\source\repos\uts_pbo\uts_pbo\bin\Debug\net8.0\uts_pbo.runtimeconfig.json
+C:\Users\Edel\source\repos\uts_pbo\uts_pbo\bin\Debug\net8.0\uts_pbo.dll
+C:\Users\Edel\source\repos\uts_pbo\uts_pbo\bin\Debug\net8.0\uts_pbo.pdb
+C:\Users\Edel\source\repos\uts_pbo\uts_pbo\obj\Debug\net8.0\uts_pbo.dll
+C:\Users\Edel\source\repos\uts_pbo\uts_pbo\obj\Debug\net8.0\refint\uts_pbo.dll
+C:\Users\Edel\source\repos\uts_pbo\uts_pbo\obj\Debug\net8.0\uts_pbo.pdb
+C:\Users\Edel\source\repos\uts_pbo\uts_pbo\obj\Debug\net8.0\uts_pbo.genruntimeconfig.cache
+C:\Users\Edel\source\repos\uts_pbo\uts_pbo\obj\Debug\net8.0\ref\uts_pbo.dll
